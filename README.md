@@ -11,7 +11,7 @@ Este escript solo funciona en el entorno xfce de Kali Linux
 
 ![Desactivado](https://user-images.githubusercontent.com/31325020/183268501-a7d38fd3-b88b-4e1c-ad63-8d62656e0d6d.png)
 
-![Activado](https://user-images.githubusercontent.com/31325020/183268507-2d543a96-dab6-4114-a885-a327b71620d2.png)
+![Activado](https://user-images.githubusercontent.com/31325020/183268720-a9b67cf4-7087-422d-ba2c-1d61bcc25b86.png)
 
 # Instalación
 ```
