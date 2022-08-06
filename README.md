@@ -19,5 +19,5 @@ cd KaliWidget
 python3 kaliWidget.py
 ```
 # Creditos 
-Autor: 0nixCode
+Autor: __0nixCode__
 
