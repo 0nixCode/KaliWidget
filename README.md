@@ -14,6 +14,7 @@ Este escript solo funciona en el entorno xfce de Kali Linux
 
 # Instalación
 ```
+pip install colorama
 git clone https://github.com/0nixCode/KaliWidget.git
 cd KaliWidget
 python3 kaliWidget.py
