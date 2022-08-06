@@ -63,7 +63,7 @@ def main():
             exit()
 
         else:
-            print(Fore.RED + Style.BRIGHT + '\n[X] ' + Style.RESET_ALL + 'Haz ingresado un dato no valido\n' + Style.BRIGHT + '    Vuelve a intentarlo' + Style.RESET_ALL)
+            print(Fore.RED + Style.BRIGHT + '\n[✗] ' + Style.RESET_ALL + 'Haz ingresado un dato no valido\n' + Style.BRIGHT + '    Vuelve a intentarlo' + Style.RESET_ALL)
             time.sleep(2)
             os.system('clear')
 
@@ -83,6 +83,7 @@ def main():
         resp = input(Fore.GREEN + '» ' + Style.RESET_ALL)
 
         if resp.lower() == 's':
+
             # Copiando archivos
             time.sleep(1)
             print(Fore.BLUE + Style.BRIGHT + '\n[+] ' + Style.RESET_ALL + 'Copiando archivos.')
@@ -132,14 +133,14 @@ function settarget(){
             print(Fore.GREEN + Style.BRIGHT + '\n═════════════════════════════════════════════════════════════' + Style.RESET_ALL)
             time.sleep(1)
             print(Fore.CYAN + Style.BRIGHT + '\n[?] ' + Style.RESET_ALL + 'Quiza al ejecutar el script el area de trabajo se haya disminuido a 1\n'
-                                                                           '    guiate del gift: https://i.imgur.com/nkoUR9q.mp4\n'
+                                                                           '    guiate del video: https://i.imgur.com/nkoUR9q.mp4\n'
                                                                            '    si no es asi, omitir esto.')
             time.sleep(1)
             print(Fore.GREEN + Style.BRIGHT + '\n═════════════════════════════════════════════════════════════' + Style.RESET_ALL)
             time.sleep(1)
             print(Fore.YELLOW + Style.BRIGHT + '\n[!] ' + Style.RESET_ALL + 'Espero haber ayudado.')
             time.sleep(1)
-            print(Fore.RED + Style.BRIGHT + '\n[X] ' + Style.RESET_ALL + 'Saliendo del programa . . .')
+            print(Fore.RED + Style.BRIGHT + '\n[✗] ' + Style.RESET_ALL + 'Saliendo del programa . . .')
             time.sleep(2)
             break
 
@@ -149,7 +150,7 @@ function settarget(){
             exit()
 
         else:
-            print(Fore.RED + Style.BRIGHT + '\n[X] ' + Style.RESET_ALL + 'Haz ingresado un dato no valido\n' + Style.BRIGHT + '    Vuelve a intentarlo' + Style.RESET_ALL)
+            print(Fore.RED + Style.BRIGHT + '\n[✗] ' + Style.RESET_ALL + 'Haz ingresado un dato no valido\n' + Style.BRIGHT + '    Vuelve a intentarlo' + Style.RESET_ALL)
             time.sleep(2)
             os.system('clear')
 
