@@ -4,13 +4,14 @@ Este escript solo funciona en el entorno xfce de Kali Linux
 
 # Inspirado en la polybar de S4vitar
 
-![asdfasdfasdfasdfasdfasdfasdsadf](https://user-images.githubusercontent.com/31325020/183267735-04384598-33de-4380-a23b-c584bae2b7a4.png)
+![S4vi](https://user-images.githubusercontent.com/31325020/183268500-5f751dbb-a569-4820-b882-55c04d43e5d8.png)
+
 
 # Vista previa
 
-![jajaja](https://user-images.githubusercontent.com/31325020/183266431-67cf5964-a7cd-4254-bed5-a2d74228ed20.png)
+![Desactivado](https://user-images.githubusercontent.com/31325020/183268501-a7d38fd3-b88b-4e1c-ad63-8d62656e0d6d.png)
 
-![2](https://user-images.githubusercontent.com/31325020/183266217-c735a3d4-f61d-434d-92c6-2f6ae7b76c20.png)
+![Activado](https://user-images.githubusercontent.com/31325020/183268507-2d543a96-dab6-4114-a885-a327b71620d2.png)
 
 # Instalación
 ```
