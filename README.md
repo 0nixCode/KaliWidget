@@ -1,6 +1,6 @@
 # KaliWidget
 
-Este escript solo funciona en el entorno xfce de Kali Linux
+Este escript solo funciona en el entorno de escritorio xfce de Kali Linux
 
 # Inspirado en la polybar de S4vitar
 
