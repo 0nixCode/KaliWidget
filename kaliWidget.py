@@ -120,15 +120,15 @@ function settarget(){
             time.sleep(1)
             print(Fore.GREEN + Style.BRIGHT + '\n[2] ' + Style.RESET_ALL + 'Ahora toca activar' + Style.BRIGHT + ' Targeted ' + Style.RESET_ALL + 'guiate\n'
                                                                            '    del siguiente video: https://i.imgur.com/4Xuzdgi.mp4\n'
-                                                                           '    Enlace: /home/tuusuario/.config/bin/target.sh\n')
+                                                                           '    Ruta: /home/tuusuario/.config/bin/target.sh\n')
             time.sleep(1)
             print(Fore.GREEN + Style.BRIGHT + '\n[3] ' + Style.RESET_ALL + 'El siguiente es' + Style.BRIGHT + ' IP VPN ' + Style.RESET_ALL + 'guiate\n'
                                                                            '    del siguiente video: https://i.imgur.com/BunV9M7.mp4\n'
-                                                                           '    Enlace: /home/tuusuario/.config/bin/vpnip.sh \n')
+                                                                           '    Ruta: /home/tuusuario/.config/bin/vpnip.sh \n')
             time.sleep(1)
             print(Fore.GREEN + Style.BRIGHT + '\n[4] ' + Style.RESET_ALL + 'Por ultimo' + Style.BRIGHT + ' IP Ethernet ' + Style.RESET_ALL + 'guiate\n'
                                                                            '    del siguiente video: https://i.imgur.com/IHKxldr.mp4\n'
-                                                                           '    Enlace: /home/tuusuario/.config/bin/ethernet.sh')
+                                                                           '    Ruta: /home/tuusuario/.config/bin/ethernet.sh')
             time.sleep(1)
             print(Fore.GREEN + Style.BRIGHT + '\n═════════════════════════════════════════════════════════════' + Style.RESET_ALL)
             time.sleep(1)
