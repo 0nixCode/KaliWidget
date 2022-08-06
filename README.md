@@ -1,4 +1,5 @@
 # KaliWidget
+
 Este escript solo funciona en el entorno xfce de Kali Linux
 
 # Vista previa
@@ -8,3 +9,8 @@ Este escript solo funciona en el entorno xfce de Kali Linux
 ![2](https://user-images.githubusercontent.com/31325020/183266217-c735a3d4-f61d-434d-92c6-2f6ae7b76c20.png)
 
 # Instalación
+```
+git clone https://github.com/OnixShadow/KaliWidget.git
+cd KaliWidget
+python3 kaliWidget.py
+```
