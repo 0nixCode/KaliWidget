@@ -138,7 +138,7 @@ function settarget(){
             time.sleep(1)
             print(Fore.GREEN + Style.BRIGHT + '\n═════════════════════════════════════════════════════════════' + Style.RESET_ALL)
             time.sleep(1)
-            print(Fore.YELLOW + Style.BRIGHT + '\n[!] ' + Style.RESET_ALL + 'Espero haber ayudado.')
+            print(Fore.BLUE + Style.BRIGHT + '\n[✔] ' + Style.RESET_ALL + 'Espero haber ayudado.')
             time.sleep(1)
             print(Fore.RED + Style.BRIGHT + '\n[✗] ' + Style.RESET_ALL + 'Saliendo del programa . . .')
             time.sleep(2)
