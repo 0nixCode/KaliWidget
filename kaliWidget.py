@@ -91,7 +91,6 @@ def main():
             time.sleep(2)
 
             # Dando permidos de ejecucion
-            time.sleep(1)
             print(Fore.BLUE + Style.BRIGHT + '\n[+] ' + Style.RESET_ALL + 'Dando permisos correspondientes de ejecución.')
             os.system('chmod +x ~/.config/bin/target.sh')
             os.system('chmod +x ~/.config/bin/ethernet.sh')
@@ -99,7 +98,6 @@ def main():
             time.sleep(2)
 
             # Integrando settarget a .zshrc
-            time.sleep(1)
             print(Fore.BLUE + Style.BRIGHT + '\n[+] ' + Style.RESET_ALL + 'Integrando settarget a .zshrc')
             os.system("""echo '
 # settargeted
