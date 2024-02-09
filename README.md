@@ -4,7 +4,7 @@ Este script solo funciona en el entorno de escritorio XFCE de Kali Linux.
 
 # Ventajas
 
-También tiene la funcionalidad de que al hacer clic izquierdo en la IP, VPN o TARGET, se copia la IP en la clipboard.
+Tiene la funcionalidad de que al hacer clic izquierdo en la IP, VPN o TARGET, se copia la IP en la clipboard.
 
 # Vista previa
 ![image](https://github.com/0nixCode/KaliWidget/assets/31325020/27c90733-a78d-4846-80c8-99468bc954b3)
