@@ -1,6 +1,7 @@
 # KaliWidget
 
 Este escript solo funciona en el entorno de escritorio xfce de Kali Linux
+Tambien tiene la funcionalidad de al dar **clic izuqierdo** a la IP, VPN o TARGET, te copida la IP.
 
 # Vista previa
 
