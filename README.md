@@ -19,7 +19,7 @@ cd KaliWidget
 python3 kaliWidget.py
 ```
 ## Recomendaciones para usar la utilidad
-Esta utilidad solo funciona para Kali Linux Everything, ya que dispone de todos los iconos que necesita la utilidad.
+Esta utilidad solo funciona para Kali Linux Everything, ya que dispone de todos los iconos que necesita.
 ![image](https://github.com/0nixCode/KaliWidget/assets/31325020/d3f88cf1-371a-451e-9e67-95514722bd2e)
 
 # Creditos 
