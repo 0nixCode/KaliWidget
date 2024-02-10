@@ -40,12 +40,13 @@ def main():
     os.system('clear')
     print(Fore.GREEN + Style.BRIGHT + '''
     ╔════════════════════════════════════╗
-    ║ Se instalará jp2a antes de iniciar ║
+    ║        Instalado requisitos        ║
     ╚════════════════════════════════════╝
     ''' + Style.RESET_ALL)
     time.sleep(1)
     os.system('sudo apt-get update')
     os.system('sudo apt-get install jp2a')
+    os.system('sudo apt-get install xclip')
 
     while True:
         banner()
