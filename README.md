@@ -27,7 +27,6 @@ python3 kaliWidget.py
 
 # Ejemplo de uso
 https://i.imgur.com/MS8hnd1.mp4
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Creditos 
 Autor: **Onix**
