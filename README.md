@@ -26,7 +26,7 @@ python3 kaliWidget.py
 [2] Ejecutar el script como usuario normal, no como **root**.
 
 # Ejemplo de uso
-https://i.imgur.com/MS8hnd1.mp4
+![Alt Text](https://i.imgur.com/aaUplH7.gif)
 
 # Creditos 
 Autor: **Onix**
