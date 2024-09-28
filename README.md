@@ -1,5 +1,3 @@
-Aquí te dejo una versión mejorada del README para tu repositorio "KaliWidget":
-
 ---
 
 # KaliWidget
@@ -45,5 +43,3 @@ Aquí tienes un ejemplo visual de cómo funciona KaliWidget en acción:
 - **Autor**: Onix
 
 ---
-
-Con esta versión, el README es más claro y estructurado, lo que mejora la comprensión y profesionalismo del proyecto.
