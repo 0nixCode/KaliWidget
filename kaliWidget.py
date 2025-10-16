@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # Author: Jordan aka SkyW4r33x
-# Repository: https://github.com/tuusuario/KaliWidget
+# Repository: https://github.com/SkyW4r33x/KaliWidget
 # Description: XFCE extension for TARGET, VPN, ETHERNET panel integration
 # Version: 2.3.0 (Fixed)
 
